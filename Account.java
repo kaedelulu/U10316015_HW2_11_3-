@@ -30,7 +30,7 @@ Account{
 	public double getAnnualInterestRate(){
 		return annualInterestRate;
 	}	
-	public void setBalance( double annualInterestRate ){
+	public void setAnnualInterestRate( double annualInterestRate ){
 		this.annualInterestRate = annualInterestRate;
 	}
 	
